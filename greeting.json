@@ -1,1 +1,7 @@
-{'data':[{"name" : "Niroj", "age" : "22"},{"name" : "Dey", "age" : "20"}]}
+{  
+    "employee": {  
+        "name":       "sonoo",   
+        "salary":      56000,   
+        "married":    true  
+    }  
+}
